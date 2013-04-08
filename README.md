@@ -1,9 +1,9 @@
 Is My Name Dead Yet?
 =============
 
-Checks your twitter feed and see's if you're dead.
+Checks your twitter feed and checks if you're dead.
 
-Just upload to any hosting and you're good to go.
+Just upload to any hosting and you're good to go. Guaranteed to cause your relatives/parents/friends to go "Why are you doing this?"
 
 DEMO: http://isryanmcdonoughdeadyet.co.uk
 

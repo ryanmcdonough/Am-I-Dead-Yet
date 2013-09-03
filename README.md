@@ -12,7 +12,7 @@ Configuration
 
 Open assets/js/app.js
 
-  var deadAfter = 2;  
+  	var deadAfter = 2;  
   
   -This sets the amount of days to check have passed since your last tweet, if it's over that amount then we assume you're dead.
 

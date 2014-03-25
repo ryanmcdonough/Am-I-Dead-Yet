@@ -1,20 +1,9 @@
-body {
-	background: #efefef;
-	background-image: url("../img/rough_diagonal.png");
-}
-
-h1,h2,h3,h4,h5 {
-	color:#6C6662;
-    font-family: Impact;
-    font-weight: normal;
-}
-
 p#answer {
     margin: 80px 0 0;
     padding: 0;
-    height: 300px;
+    height: 330px;
     overflow: hidden;
-    font: normal 288px Impact, Charcoal, sans-serif;;
+    font-size: 288px;
     text-align: center;
     text-transform: uppercase;
     text-shadow: 0px 0px 30px rgba(0,0,0,0.1);

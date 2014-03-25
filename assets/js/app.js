@@ -2,11 +2,12 @@ $(document).ready(function() {
 	
 	var deadAfter = 2;  //amount of days since last tweet to assume you're dead
 	var deadThen = false;
-	var username = "fat"; //twitter username
-	var fullName = "Any Name"; //name to show in title
+	var username = "ryanmcdonough"; //twitter username
+	var fullName = "Ryan McDonough"; //name to show in title
 	var showCredit = false; //show a hey to ryanmcdonough
 	
-	var url = "https://api.twitter.com/1/statuses/user_timeline/" + username + ".json?count=1&include_rts=1&callback=?";
+	//Check the configuration section the get this url
+	var url = "https://script.google.com/macros/s/AKfycbwEQ6ikw8d2xGIUttWlwp7Xhz8hoxq83u7ZplYvecg7BnLY12I/exec?448386093071618048";
 	$.getJSON(url, function(data){
 	    $.each(data, function(i, item) {
 			

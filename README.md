@@ -10,6 +10,9 @@ DEMO: http://isryanmcdonoughdeadyet.co.uk
 Configuration
 =============
 
+Follow the guide at: http://www.labnol.org/internet/twitter-rss-feed/28149/ to create your twitter feed URL now 1.1 deprecates the XML feed.
+
+
 Open assets/js/app.js
 
   	var deadAfter = 2;  
